@@ -43,6 +43,11 @@ async function fetchRecipes() {
     // in the recipes folder and fetch them from there. You'll need to add their paths to the recipes array.
 
     // Part 1 Expose - TODO
+    const fetchResponsePromise = fetch('https://introweb.tech/assets/json/ghostCookies.json' [init])
+
+    
+
+
   });
 }
 
