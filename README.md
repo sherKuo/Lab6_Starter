@@ -1,3 +1,3 @@
 # Lab 6 - Starter
-Sherilyn Kuo
+Sherilyn Kuo <br>
 GitHub Page Link:
